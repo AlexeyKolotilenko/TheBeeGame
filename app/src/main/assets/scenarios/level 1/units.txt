@@ -1,0 +1,1 @@
+{"user":{"Queen Bee":{"hp":100,"ownDamagePerHit":8},"Worker Bee":{"hp":75,"ownDamagePerHit":10},"Drone Bee":{"hp":50,"ownDamagePerHit":12}}}

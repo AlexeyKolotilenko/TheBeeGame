@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">The Bee Game</string>
+    <string name="app_version">1.01</string>
+    <string name="action_settings">Restart game</string>
+
+    <string name="on_cant_read_data_file">Cant read data file</string>
+    <string name="on_cant_parse_game_data">Cant parse game data</string>
+
+    <string name="user_win_toast_text">Congratulations, You Win!</string>
+    <string name="user_lost_toast_text">You lost, you can try again.</string>
+
+    <string name="click_to_start_new_game">Click to start new game</string>
+
+    <!-- BattleFieldFragment -->
+    <string name="target_type_name_header_text">Target type name</string>
+    <string name="target_unit_name_header_text">Target unit name</string>
+    <string name="hitter_name_header_text">Hitter unit name</string>
+    <string name="hp_before_header_text">HP Before hit</string>
+    <string name="hp_after_header_text">HP After hit</string>
+
+
+    final String targetTypeName;
+    final String targetUnitName;
+    final String hitterName;
+    final int hpBefore;
+    final int hpAfter;
+
+    <!-- Model -->
+    <string name="bee_name_prefix">"Bee "</string>
+</resources>
